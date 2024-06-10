@@ -12,7 +12,7 @@ This is a Java implementation of a Monopoly-style game. This was a unversity pro
 
 In this game, players move around a virtual board, buying and selling properties, collecting rent, and trying to bankrupt their opponents. The game follows the rules and mechanics of the classic Monopoly game.
 
-[Watch the demo](Submission2/VideoDemo_CSC2058_Group40.mp4)
+[Watch the video](Submission2/VideoDemo_CSC2058_Group40.mp4)
 
 ## Features
 
